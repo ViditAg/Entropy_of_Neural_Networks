@@ -1,6 +1,6 @@
 # Robust entropy requires strong and balanced excitatory and inhibitory synapses
 
-This project was done as part of PhD thesis under the guidance of Dr. Woodrow L. Shew at University of Arkansas-Fayetteville. 
+This project was done as part of PhD thesis under the guidance of [Dr. Woodrow L. Shew](https://www.woodrowshew.com/) at University of Arkansas-Fayetteville. 
 It was a computational project where we simulated neural network models of integrate-and-fire neurons with excitatory and inhibitory 
 connections known as synapse. We estimated the shannon entropy of the network for a range of network parameters. These parameters namely,
 fraction of inhibitory neurons, excitatory synaptic weights and inhibitory synaptic weights. 
