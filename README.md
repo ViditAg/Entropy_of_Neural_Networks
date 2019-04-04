@@ -10,4 +10,5 @@ at the boundary of both. Along this boundary we see there is a trade-off between
 entropy which is high but drops rapidly under parameter change. Strong synapse strengths, on the other hand yield a lower,but more robust,
 network entropy.
 
-For detailed description please read the nmanuscript that I have also put in this repository.
+[For detailed description please read the manuscript published in American Journal of Physics, Chaos](https://aip.scitation.org/doi/abs/10.1063/1.5043429). 
+I have also attached a copy of it in this repository.
